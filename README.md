@@ -16,6 +16,16 @@ To add Firebase to our `create-react-app` project we need `npm install firebase`
 3. Click on the gear icon and go to "Project settings". Add a web app and copy the `firebaseConfig` to `src/firebase/firebase.js`
 4. `npm install; npm start` and check out the links below!
 
+## Related links
+
+Note that for doing Github, Facebook, etc. you need to create a Github and Facebook application, and you can save the credential if you want to access the Github or FB API.
+
+https://firebase.google.com/docs/auth/web/google-signin
+
+https://firebase.google.com/docs/auth/web/github-auth
+
+https://firebase.google.com/docs/auth/web/facebook-login
+
 ## Find this useful?
 
 Subscribe: https://www.youtube.com/channel/UC9_2rdTefiAnSpOz9NMe9QA
