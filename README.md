@@ -16,6 +16,8 @@ To add Firebase to our `create-react-app` project we need `npm install firebase`
 3. Click on the gear icon and go to "Project settings". Add a web app and copy the `firebaseConfig` to `src/firebase/firebase.js`
 4. `npm install; npm start` and check out the links below!
 
+Want to get learn how to verify `idToken`s on the backend? See this repo for Node + Express: https://github.com/taimoorgit/Firebase-Auth-Node-Tutorial
+
 ## Related links
 
 Note that for doing Github, Facebook, etc. you need to create a Github and Facebook application, and you can save the credential if you want to access the Github or FB API.
