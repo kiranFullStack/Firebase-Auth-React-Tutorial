@@ -1,4 +1,4 @@
-# Firebase authentication example for react
+# Firebase authentication example for react.
 
 This is some example/boilerplate code for authenticating a user using Firebase + social auth (for example with Google)
 
